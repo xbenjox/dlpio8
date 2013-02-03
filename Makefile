@@ -1,1 +1,2 @@
-all: g++ main.cpp dlpio8 
+all: 
+	g++ main.cpp -o dlpio8 
